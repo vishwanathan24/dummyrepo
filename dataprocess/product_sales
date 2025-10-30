@@ -1,0 +1,11 @@
+product_id,product_name,unit_price,sale_date
+101,computer,55000,2025-08-01
+102,keyboard,1200,2025-08-02
+103,mouse,600,2025-08-02
+104,mobile,25000,2025-08-03
+105,tablet,30000,2025-08-03
+106,charger,500,2025-08-04
+107,headphone,2000,2025-08-04
+108,printer,15000,2025-08-05
+109,monitor,12000,2025-08-06
+110,camera,35000,2025-08-06
